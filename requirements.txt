@@ -1,0 +1,6 @@
+jupyterlab
+ipywidgets  # needed for tqdm in jupyter
+tqdm
+
+matplotlib
+pandas
