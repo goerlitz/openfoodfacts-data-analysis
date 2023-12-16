@@ -8,3 +8,5 @@ pandas
 pyyaml
 
 python-slugify
+networkx
+pydot
