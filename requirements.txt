@@ -10,3 +10,11 @@ pyyaml
 python-slugify
 networkx
 pydot
+
+openfoodfacts
+
+# https://pygraphviz.github.io/documentation/latest/install.html#macos
+# pip install --config-settings="--global-option=build_ext" \
+#            --config-settings="--global-option=-I$(brew --prefix graphviz)/include/" \
+#            --config-settings="--global-option=-L$(brew --prefix graphviz)/lib/" \
+#            pygraphviz
