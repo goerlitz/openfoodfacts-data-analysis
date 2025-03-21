@@ -1,0 +1,469 @@
+country
+france
+united states
+spain
+germany
+italy
+united kingdom
+canada
+switzerland
+belgium
+ireland
+world
+australia
+netherlands
+brazil
+morocco
+poland
+russia
+japan
+norway
+romania
+austria
+sweden
+portugal
+czech republic
+india
+finland
+mexico
+bulgaria
+argentina
+luxembourg
+denmark
+new zealand
+saudi arabia
+thailand
+hungary
+greece
+singapore
+algeria
+south africa
+lithuania
+colombia
+croatia
+philippines
+indonesia
+chile
+reunion
+united arab emirates
+qatar
+slovakia
+israel
+ukraine
+bolivia
+turkey
+tunisia
+serbia
+malaysia
+hong kong
+iraq
+puerto rico
+egypt
+new caledonia
+slovenia
+estonia
+kuwait
+latvia
+peru
+french polynesia
+guadeloupe
+lebanon
+costa rica
+south korea
+cyprus
+georgia
+cuba
+iceland
+panama
+ecuador
+china
+senegal
+dominican republic
+moldova
+mauritius
+martinique
+malta
+pakistan
+uruguay
+venezuela
+cote d ivoire
+vietnam
+turkiye
+deutschland
+paraguay
+el salvador
+taiwan
+andorra
+belarus
+bosnia and herzegovina
+jordan
+north macedonia
+albania
+guatemala
+virgin islands of the united states
+libya
+palestinian territories
+bahrain
+iran
+yugoslavia
+honduras
+cameroon
+kazakhstan
+trinidad and tobago
+nigeria
+francia
+azerbaijan
+bangladesh
+uzbekistan
+ethiopia
+jamaica
+frankreich
+faroe islands
+french guiana
+montenegro
+cambodia
+madagascar
+kenya
+somalia
+oman
+sri lanka
+ghana
+gabon
+european union
+democratic republic of the congo
+nicaragua
+brunei
+burkina faso
+suriname
+monaco
+afghanistan
+armenia
+francia
+myanmar
+mongolia
+gibraltar
+mali
+belgique
+nepal
+schweiz
+barbados
+france la reunion
+maldives
+haiti
+scotland
+the bahamas
+guam
+jersey
+estados unidos
+benin
+saint pierre and miquelon
+syria
+kyrgyzstan
+guinea
+en
+etats unis
+togo
+yemen
+aland islands
+isle of man
+zambia
+republic of the congo
+curacao
+sierra leone
+rwanda
+macau
+liechtenstein
+mauritania
+guernsey
+papua new guinea
+guyana
+niger
+aruba
+angleterre
+mozambique
+san marino
+republic of macedonia
+nederland
+suisse
+seychelles
+tanzania
+espagne
+allemagne
+bermuda
+namibia
+kosovo
+mayotte
+montserrat
+angola
+djibouti
+frankreich
+fiji
+maroc
+francia espana
+vereinigte staaten von amerika
+uganda
+saint lucia
+ישראל
+belgie
+antigua and barbuda
+cape verde
+saint martin
+laos
+emirats arabes unis
+irlande
+liban
+indonesie
+angleterre
+worldwide
+greenland
+cayman islands
+sint maarten
+sudan
+zimbabwe
+tajikistan
+chad
+botswana
+belgie
+malawi
+allemagne
+england
+vanuatu
+algerie
+frankrijk
+irland
+belize
+royaume uni
+nyl
+comoros
+liberia
+alemania
+belgien
+american samoa
+ประเทศไทย thai
+republika srpska
+saint vincent and the grenadines
+north korea
+wallis and futuna
+polska
+equatorial guinea
+belgica
+british virgin islands
+grenada
+deutschland
+niederlande
+europe
+anguilla
+angle
+angle
+kanada
+sverige
+suiza
+northern mariana islands
+dom tom
+bhutan
+cantabria
+dominica
+south east asia
+stati uniti d america
+schweiz
+spanien
+international
+česko
+international
+quebec
+gambia
+нидерланды
+south sudan
+reino unido
+state of palestine
+burundi
+turks and caicos islands
+caribbean netherlands
+日本
+belgien
+belgica
+santona
+east germany
+benelux
+central african republic
+palau
+france spain
+ελλάδα
+la reunion
+المغرب
+saint kitts and nevis
+value
+stany zjednoczone
+turkmenistan
+marruecos
+swaziland
+en us
+cook islands
+timor leste
+espanha
+švýcarsko
+autriche
+en fr
+madagascar toamasina
+iraqi kurdistan
+hrvatska
+st kitts and nevis
+lesotho
+soviet union
+česko
+italien
+německo
+mexique
+tunisie
+vatican city
+dom tom
+galmudug
+word
+western canada
+polska
+samoa
+frankrijk
+vereinigtes konigreich
+unknown
+antarctic
+francja
+solomon islands
+eritrea
+united states minor outlying islands
+europe
+franca
+argentina espanol
+canada francais
+malaysia bahasa melayu
+mexico espanol
+peru espanol
+puerto rico espanol
+russia русский
+south africa english
+taiwan 中文
+china 中文
+georgia ქართული
+indonesia bahasa indonesia
+made in canada from domestic and imported ingredients
+sardinia
+dubai
+colombia espanol
+japan 日本語
+namibia english
+north macedonia македонски јазик
+portugal portugues
+singapore english
+sweden svenska
+대한민국
+arabie saoudite
+казахстан
+ecuador espanol
+hong kong 粵語
+netherlands nederlands
+slovak republic slovenčina
+الاردن
+njemačka
+dubai
+armenia pyсский
+aruba espanol
+canada english
+denmark dansk
+finland suomi
+lesotho english
+spain espanol
+uruguay espanol
+bulgarien
+indian subcontinent
+sao tome and principe
+australia english
+lithuania lietuvių
+slovenia slovene
+swaziland english
+switzerland deutsch
+switzerland francais
+bulgaria български
+czech republic čeština
+honduras espanol
+moldova roman
+philippines english
+ireland uk
+asia pacific
+belgium nederlands
+lebanon english
+poland polski
+belgium francais
+cambodia english
+chile espanol
+germany deutsch
+ireland english
+kazakhstan pyсский
+azerbaijan русский
+bolivia espanol
+jamaica english
+mongolia монгол хэл
+niemcy
+belarus pyсский
+croatia hrvatski
+republica dominicana espanol
+venezuela espanol
+tonga
+アメリカ合衆国
+cyprus ελληνικά
+france francais
+iceland islenska
+new zealand english
+united kingdom english
+united states espanol
+verenigde staten van amerika
+германия
+irska
+sjedinjene američke države
+british indian ocean territory
+rakousko
+austria deutsch
+bosnia i hercegovina bosnian
+brazil portugues
+costa rica espanol
+guatemala espanol
+india english
+italy italiano
+paraguay espanol
+trinidad tobago english
+turkey turkce
+ukraine yкраї́нська
+marshall islands
+botswana english
+hungary magyar
+israel עברית
+korea 한국어
+serbia srpski
+united states english
+السعودية
+spagna
+wales
+romania romană
+vietnam tiếng việt
+جميع البلدان
+francuska
+estonia eesti
+greece ελληνικά
+latvia latviešu
+malaysia 中文
+middle east africa
+norway norsk
+thailand ไทย
+suiza
+république tchèque
+cambodia ភាសាខ្មែរ
+el salvador espanol
+ghana english
+kyrgyzstan русский
+macau 中文
+malaysia english
+nicaragua espanol
+panama espanol
+zambia english
+london
+švicarska
+middle east
+cocos keeling islands
