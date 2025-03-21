@@ -1,0 +1,469 @@
+#;Original Name;Translated Name
+1;france;France
+2;united states;United States
+3;spain;Spain
+4;germany;Germany
+5;italy;Italy
+6;united kingdom;United Kingdom
+7;canada;Canada
+8;switzerland;Switzerland
+9;belgium;Belgium
+10;ireland;Ireland
+11;world;❌ Not a country
+12;australia;Australia
+13;netherlands;Netherlands
+14;brazil;Brazil
+15;morocco;Morocco
+16;poland;Poland
+17;russia;Russia
+18;japan;Japan
+19;norway;Norway
+20;romania;Romania
+21;austria;Austria
+22;sweden;Sweden
+23;portugal;Portugal
+24;czech republic;Czech Republic
+25;india;India
+26;finland;Finland
+27;mexico;Mexico
+28;bulgaria;Bulgaria
+29;argentina;Argentina
+30;luxembourg;Luxembourg
+31;denmark;Denmark
+32;new zealand;New Zealand
+33;saudi arabia;Saudi Arabia
+34;thailand;Thailand
+35;hungary;Hungary
+36;greece;Greece
+37;singapore;Singapore
+38;algeria;Algeria
+39;south africa;South Africa
+40;lithuania;Lithuania
+41;colombia;Colombia
+42;croatia;Croatia
+43;philippines;Philippines
+44;indonesia;Indonesia
+45;chile;Chile
+46;reunion;✅ Réunion (French region)
+47;united arab emirates;United Arab Emirates
+48;qatar;Qatar
+49;slovakia;Slovakia
+50;israel;Israel
+51;ukraine;Ukraine
+52;bolivia;Bolivia
+53;turkey;Turkey
+54;tunisia;Tunisia
+55;serbia;Serbia
+56;malaysia;Malaysia
+57;hong kong;✅ Hong Kong (SAR of China)
+58;iraq;Iraq
+59;puerto rico;✅ Puerto Rico (US territory)
+60;egypt;Egypt
+61;new caledonia;✅ New Caledonia (French region)
+62;slovenia;Slovenia
+63;estonia;Estonia
+64;kuwait;Kuwait
+65;latvia;Latvia
+66;peru;Peru
+67;french polynesia;✅ French Polynesia (French region)
+68;guadeloupe;✅ Guadeloupe (French region)
+69;lebanon;Lebanon
+70;costa rica;Costa Rica
+71;south korea;South Korea
+72;cyprus;Cyprus
+73;georgia;Georgia
+74;cuba;Cuba
+75;iceland;Iceland
+76;panama;Panama
+77;ecuador;Ecuador
+78;china;China
+79;senegal;Senegal
+80;dominican republic;Dominican Republic
+81;moldova;Moldova
+82;mauritius;Mauritius
+83;martinique;✅ Martinique (French region)
+84;malta;Malta
+85;pakistan;Pakistan
+86;uruguay;Uruguay
+87;venezuela;Venezuela
+88;cote d ivoire;Côte d'Ivoire
+89;vietnam;Vietnam
+90;turkiye;Türkiye
+91;deutschland;Germany
+92;paraguay;Paraguay
+93;el salvador;El Salvador
+94;taiwan;✅ Taiwan (Disputed country)
+95;andorra;Andorra
+96;belarus;Belarus
+97;bosnia and herzegovina;Bosnia and Herzegovina
+98;jordan;Jordan
+99;north macedonia;North Macedonia
+100;albania;Albania
+101;guatemala;Guatemala
+102;virgin islands of the united states;✅ Virgin Islands, U.S. (US territory)
+103;libya;Libya
+104;palestinian territories;✅ Palestine (Recognized state)
+105;bahrain;Bahrain
+106;iran;Iran
+107;yugoslavia;❌ No longer a country
+108;honduras;Honduras
+109;cameroon;Cameroon
+110;kazakhstan;Kazakhstan
+111;trinidad and tobago;Trinidad and Tobago
+112;nigeria;Nigeria
+113;francia;France
+114;azerbaijan;Azerbaijan
+115;bangladesh;Bangladesh
+116;uzbekistan;Uzbekistan
+117;ethiopia;Ethiopia
+118;jamaica;Jamaica
+119;frankreich;France
+120;faroe islands;✅ Faroe Islands (Danish region)
+121;french guiana;✅ French Guiana (French region)
+122;montenegro;Montenegro
+123;cambodia;Cambodia
+124;madagascar;Madagascar
+125;kenya;Kenya
+126;somalia;Somalia
+127;oman;Oman
+128;sri lanka;Sri Lanka
+129;ghana;Ghana
+130;gabon;Gabon
+131;european union;❌ Not a country
+132;democratic republic of the congo;Democratic Republic of the Congo
+133;nicaragua;Nicaragua
+134;brunei;Brunei
+135;burkina faso;Burkina Faso
+136;suriname;Suriname
+137;monaco;Monaco
+138;afghanistan;Afghanistan
+139;armenia;Armenia
+140;francia;France
+141;myanmar;Myanmar
+142;mongolia;Mongolia
+143;gibraltar;✅ Gibraltar (UK territory)
+144;mali;Mali
+145;belgique;Belgium
+146;nepal;Nepal
+147;schweiz;Switzerland
+148;barbados;Barbados
+149;france la reunion;✅ Réunion (French region)
+150;maldives;Maldives
+151;haiti;Haiti
+152;scotland;❌ Not a country (Part of UK)
+153;the bahamas;The Bahamas
+154;guam;✅ Guam (US territory)
+155;jersey;❌ Not a country (UK territory)
+156;estados unidos;United States
+157;benin;Benin
+158;saint pierre and miquelon;✅ Saint Pierre and Miquelon (French region)
+159;syria;Syria
+160;kyrgyzstan;Kyrgyzstan
+161;guinea;Guinea
+162;en;❌ Not a country
+163;etats unis;United States
+164;togo;Togo
+165;yemen;Yemen
+166;aland islands;✅ Åland Islands (Finnish region)
+167;isle of man;❌ Not a country (UK dependency)
+168;zambia;Zambia
+169;republic of the congo;Republic of the Congo
+170;curacao;✅ Curaçao (Dutch region)
+171;sierra leone;Sierra Leone
+172;rwanda;Rwanda
+173;macau;✅ Macao (SAR of China)
+174;liechtenstein;Liechtenstein
+175;mauritania;Mauritania
+176;guernsey;❌ Not a country (UK dependency)
+177;papua new guinea;Papua New Guinea
+178;guyana;Guyana
+179;niger;Niger
+180;aruba;✅ Aruba (Dutch region)
+181;angleterre;❌ Not a country (Part of UK) England
+182;mozambique;Mozambique
+183;san marino;San Marino
+184;republic of macedonia;North Macedonia
+185;nederland;Netherlands
+186;suisse;Switzerland
+187;seychelles;Seychelles
+188;tanzania;Tanzania
+189;espagne;Spain
+190;allemagne;Germany
+191;bermuda;✅ Bermuda (UK territory)
+192;namibia;Namibia
+193;kosovo;✅ Kosovo (Recognized country)
+194;mayotte;✅ Mayotte (French region)
+195;montserrat;✅ Montserrat (UK territory)
+196;angola;Angola
+197;djibouti;Djibouti
+198;frankreich;France
+199;fiji;Fiji
+200;maroc;Morocco
+201;francia espana;❌ Not a country
+202;vereinigte staaten von amerika;United States
+203;uganda;Uganda
+204;saint lucia;Saint Lucia
+205;ישראל;Israel
+206;belgie;Belgium
+207;antigua and barbuda;Antigua and Barbuda
+208;cape verde;Cape Verde
+209;saint martin;✅ Saint Martin (French region)
+210;laos;Laos
+211;emirats arabes unis;United Arab Emirates
+212;irlande;Ireland
+213;liban;Lebanon
+214;indonesie;Indonesia
+215;angleterre;❌ Not a country (Part of UK) England
+216;worldwide;❌ Not a country
+217;greenland;✅ Greenland (Danish region)
+218;cayman islands;✅ Cayman Islands (UK territory)
+219;sint maarten;✅ Sint Maarten (Dutch region)
+220;sudan;Sudan
+221;zimbabwe;Zimbabwe
+222;tajikistan;Tajikistan
+223;chad;Chad
+224;botswana;Botswana
+225;belgie;Belgium
+226;malawi;Malawi
+227;allemagne;Germany
+228;england;❌ Not a country (Part of UK)
+229;vanuatu;Vanuatu
+230;algerie;Algeria
+231;frankrijk;France
+232;irland;Ireland
+233;belize;Belize
+234;royaume uni;United Kingdom
+235;nyl;❌ Not a country
+236;comoros;Comoros
+237;liberia;Liberia
+238;alemania;Germany
+239;belgien;Belgium
+240;american samoa;✅ American Samoa (US territory)
+241;ประเทศไทย thai;Thailand
+242;republika srpska;❌ Not a country (Bosnian entity)
+243;saint vincent and the grenadines;Saint Vincent and the Grenadines
+244;north korea;North Korea
+245;wallis and futuna;❌ Not a country (French region)
+246;polska;Poland
+247;equatorial guinea;Equatorial Guinea
+248;belgica;Belgium
+249;british virgin islands;✅ Virgin Islands, British (UK territory)
+250;grenada;Grenada
+251;deutschland;Germany
+252;niederlande;Netherlands
+253;europe;❌ Not a country
+254;anguilla;✅ Anguilla (UK territory)
+255;angle;❌ Not a country
+256;angle;❌ Not a country
+257;kanada;Canada
+258;sverige;Sweden
+259;suiza;Switzerland
+260;northern mariana islands;✅ Northern Mariana Islands (US territory)
+261;dom tom;❌ Not a country
+262;bhutan;Bhutan
+263;cantabria;❌ Not a country (Spanish region)
+264;dominica;Dominica
+265;south east asia;❌ Not a country
+266;stati uniti d america;United States
+267;schweiz;Switzerland
+268;spanien;Spain
+269;international;❌ Not a country
+270;česko;Czech Republic
+271;international;❌ Not a country
+272;quebec;❌ Not a country (Canadian province)
+273;gambia;Gambia
+274;нидерланды;Netherlands
+275;south sudan;South Sudan
+276;reino unido;United Kingdom
+277;state of palestine;✅ Palestine (Recognized state)
+278;burundi;Burundi
+279;turks and caicos islands;✅ Turks and Caicos Islands (UK territory)
+280;caribbean netherlands;✅ Bonaire, Sint Eustatius and Saba (Dutch)
+281;日本;Japan
+282;belgien;Belgium
+283;belgica;Belgium
+284;santona;❌ Not a country
+285;east germany;❌ No longer a country
+286;benelux;❌ Not a country
+287;central african republic;Central African Republic
+288;palau;Palau
+289;france spain;❌ Not a country
+290;ελλάδα;Greece
+291;la reunion;✅ Réunion (French region)
+292;المغرب;Morocco
+293;saint kitts and nevis;Saint Kitts and Nevis
+294;value;❌ Not a country
+295;stany zjednoczone;United States
+296;turkmenistan;Turkmenistan
+297;marruecos;Morocco
+298;swaziland;✅ Eswatini (formerly Swaziland)
+299;en us;❌ Not a country
+300;cook islands;✅ Cook Islands (Self-governing)
+301;timor leste;Timor-Leste
+302;espanha;Spain
+303;švýcarsko;Switzerland
+304;autriche;Austria
+305;en fr;❌ Not a country
+306;madagascar toamasina;❌ Not a country (Region of Madagascar)
+307;iraqi kurdistan;❌ Not a country (Region of Iraq)
+308;hrvatska;Croatia
+309;st kitts and nevis;Saint Kitts and Nevis
+310;lesotho;Lesotho
+311;soviet union;❌ No longer a country
+312;česko;Czech Republic
+313;italien;Italy
+314;německo;Germany
+315;mexique;Mexico
+316;tunisie;Tunisia
+317;vatican city;Vatican City
+318;dom tom;❌ Not a country
+319;galmudug;❌ Not a country (Somalian region)
+320;word;❌ Not a country
+321;western canada;❌ Not a country
+322;polska;Poland
+323;samoa;Samoa
+324;frankrijk;France
+325;vereinigtes konigreich;United Kingdom
+326;unknown;❌ Not a country
+327;antarctic;✅ Antarctica
+328;francja;France
+329;solomon islands;Solomon Islands
+330;eritrea;Eritrea
+331;united states minor outlying islands;✅ United States Minor Outlying Islands (US territory)
+332;europe;❌ Not a country
+333;franca;France
+334;argentina espanol;Argentina
+335;canada francais;Canada
+336;malaysia bahasa melayu;Malaysia
+337;mexico espanol;Mexico
+338;peru espanol;Peru
+339;puerto rico espanol;✅ Puerto Rico (US territory)
+340;russia русский;Russia
+341;south africa english;South Africa
+342;taiwan 中文;✅ Taiwan (Disputed country)
+343;china 中文;China
+344;georgia ქართული;Georgia
+345;indonesia bahasa indonesia;Indonesia
+346;made in canada from domestic and imported ingredients;❌ Not a country
+347;sardinia;❌ Not a country (Region of Italy)
+348;dubai;❌ Not a country (City in UAE)
+349;colombia espanol;Colombia
+350;japan 日本語;Japan
+351;namibia english;Namibia
+352;north macedonia македонски јазик;North Macedonia
+353;portugal portugues;Portugal
+354;singapore english;Singapore
+355;sweden svenska;Sweden
+356;대한민국;South Korea
+357;arabie saoudite;Saudi Arabia
+358;казахстан;Kazakhstan
+359;ecuador espanol;Ecuador
+360;hong kong 粵語;✅ Hong Kong (SAR of China)
+361;netherlands nederlands;Netherlands
+362;slovak republic slovenčina;Slovakia
+363;الاردن;Jordan
+364;njemačka;Germany
+365;dubai;❌ Not a country (City in UAE)
+366;armenia pyсский;Armenia
+367;aruba espanol;✅ Aruba (Dutch region)
+368;canada english;Canada
+369;denmark dansk;Denmark
+370;finland suomi;Finland
+371;lesotho english;Lesotho
+372;spain espanol;Spain
+373;uruguay espanol;Uruguay
+374;bulgarien;Bulgaria
+375;indian subcontinent;❌ Not a country
+376;sao tome and principe;Sao Tome and Principe
+377;australia english;Australia
+378;lithuania lietuvių;Lithuania
+379;slovenia slovene;Slovenia
+380;swaziland english;✅ Eswatini (formerly Swaziland)
+381;switzerland deutsch;Switzerland
+382;switzerland francais;Switzerland
+383;bulgaria български;Bulgaria
+384;czech republic čeština;Czech Republic
+385;honduras espanol;Honduras
+386;moldova roman;Moldova
+387;philippines english;Philippines
+388;ireland uk;❌ Not a country
+389;asia pacific;❌ Not a country
+390;belgium nederlands;Belgium
+391;lebanon english;Lebanon
+392;poland polski;Poland
+393;belgium francais;Belgium
+394;cambodia english;Cambodia
+395;chile espanol;Chile
+396;germany deutsch;Germany
+397;ireland english;Ireland
+398;kazakhstan pyсский;Kazakhstan
+399;azerbaijan русский;Azerbaijan
+400;bolivia espanol;Bolivia
+401;jamaica english;Jamaica
+402;mongolia монгол хэл;Mongolia
+403;niemcy;Germany
+404;belarus pyсский;Belarus
+405;croatia hrvatski;Croatia
+406;republica dominicana espanol;Dominican Republic
+407;venezuela espanol;Venezuela
+408;tonga;Tonga
+409;アメリカ合衆国;United States
+410;cyprus ελληνικά;Cyprus
+411;france francais;France
+412;iceland islenska;Iceland
+413;new zealand english;New Zealand
+414;united kingdom english;United Kingdom
+415;united states espanol;United States
+416;verenigde staten van amerika;United States
+417;германия;Germany
+418;irska;Ireland
+419;sjedinjene američke države;United States
+420;british indian ocean territory;✅ British Indian Ocean Territory (UK territory)
+421;rakousko;Austria
+422;austria deutsch;Austria
+423;bosnia i hercegovina bosnian;Bosnia and Herzegovina
+424;brazil portugues;Brazil
+425;costa rica espanol;Costa Rica
+426;guatemala espanol;Guatemala
+427;india english;India
+428;italy italiano;Italy
+429;paraguay espanol;Paraguay
+430;trinidad tobago english;Trinidad and Tobago
+431;turkey turkce;Turkey
+432;ukraine yкраї́нська;Ukraine
+433;marshall islands;Marshall Islands
+434;botswana english;Botswana
+435;hungary magyar;Hungary
+436;israel עברית;Israel
+437;korea 한국어;South Korea
+438;serbia srpski;Serbia
+439;united states english;United States
+440;السعودية;Saudi Arabia
+441;spagna;Spain
+442;wales;❌ Not a country (Part of UK)
+443;romania romană;Romania
+444;vietnam tiếng việt;Vietnam
+445;جميع البلدان;❌ Not a country („All countries“)
+446;francuska;France
+447;estonia eesti;Estonia
+448;greece ελληνικά;Greece
+449;latvia latviešu;Latvia
+450;malaysia 中文;Malaysia
+451;middle east africa;❌ Not a country
+452;norway norsk;Norway
+453;thailand ไทย;Thailand
+454;suiza;Switzerland
+455;république tchèque;Czech Republic
+456;cambodia ភាសាខ្មែរ;Cambodia
+457;el salvador espanol;El Salvador
+458;ghana english;Ghana
+459;kyrgyzstan русский;Kyrgyzstan
+460;macau 中文;✅ Macao (SAR of China)
+461;malaysia english;Malaysia
+462;nicaragua espanol;Nicaragua
+463;panama espanol;Panama
+464;zambia english;Zambia
+465;london;❌ Not a country (City)
+466;švicarska;Switzerland
+467;middle east;❌ Not a country
+468;cocos keeling islands;✅ Cocos (Keeling) Islands (Australian external territory)

@@ -5,6 +5,9 @@ tqdm
 matplotlib
 pandas
 
+plotly
+kaleido
+
 pyyaml
 
 python-slugify
@@ -12,6 +15,7 @@ networkx
 pydot
 
 openfoodfacts
+pycountry
 
 # https://pygraphviz.github.io/documentation/latest/install.html#macos
 # pip install --config-settings="--global-option=build_ext" \
